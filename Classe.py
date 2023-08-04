@@ -1,1 +1,1 @@
-# Classe
+print('hola_mundo')
